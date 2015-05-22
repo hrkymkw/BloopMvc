@@ -24,3 +24,4 @@ C:\Users\Chris\Documents\GitHub\BloopMvc\BloopMvc\BloopMvc\bin\System.Web.Http.W
 C:\Users\Chris\Documents\GitHub\BloopMvc\BloopMvc\BloopMvc\obj\Debug\BloopMvc.csprojResolveAssemblyReference.cache
 C:\Users\Chris\Documents\GitHub\BloopMvc\BloopMvc\BloopMvc\obj\Debug\BloopMvc.dll
 C:\Users\Chris\Documents\GitHub\BloopMvc\BloopMvc\BloopMvc\obj\Debug\BloopMvc.pdb
+C:\Users\hyamakawa\Source\Repos\BloopMvc\BloopMvc\BloopMvc\obj\Debug\BloopMvc.csprojResolveAssemblyReference.cache
